@@ -1,0 +1,26 @@
+[
+    [
+        {
+            "ID01": {
+                "nombre": "Andres Garcia",
+                "edad": 40,
+                "estatus": "contratado"
+            },
+            "ID02": {
+                "nombre": "Laura Perez",
+                "edad": 22,
+                "estatus": "contratado"
+            },
+            "ID03": {
+                "nombre": "Carlos Ramirez",
+                "edad": 30,
+                "estatus": "contratado"
+            },
+            "ID04": {
+                "nombre": "Paola Mejia",
+                "edad": 52,
+                "estatus": "contratado"
+            }
+        }
+    ]
+]
