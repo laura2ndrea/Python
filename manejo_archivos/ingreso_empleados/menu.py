@@ -28,9 +28,9 @@ def menu_principal():
         elif opc == 2:
             empleados.mostrar_empleados()
         elif opc == 3:
-            print("modificar_empleados")
+            empleados.modificar_empleados()
         elif opc == 4: 
-            print("despedir_empleados")
+            empleados.despedir_empleados()
         elif opc == 5: 
             print("registros")
         elif opc == 6: 
