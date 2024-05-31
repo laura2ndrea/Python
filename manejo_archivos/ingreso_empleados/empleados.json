@@ -1,7 +1,7 @@
 {
     "ID01": {
-        "nombre": "Andres Garcia",
-        "edad": 40,
+        "nombre": "Pedro Camote",
+        "edad": 12,
         "estatus": "contratado"
     },
     "ID02": {
@@ -12,16 +12,21 @@
     "ID03": {
         "nombre": "Carlos Ramirez",
         "edad": 30,
-        "estatus": "contratado"
+        "estatus": "despedido"
     },
     "ID04": {
-        "nombre": "Paola Mejia",
+        "nombre": "Jhonatan Ramirez",
         "edad": 52,
-        "estatus": "contratado"
+        "estatus": "despedido"
     },
     "ID09": {
         "nombre": "Camilo Perez",
         "edad": 23,
+        "estatus": "despedido"
+    },
+    "ID34": {
+        "nombre": "Carolina Rodriguez",
+        "edad": 56,
         "estatus": "contratado"
     }
 }
