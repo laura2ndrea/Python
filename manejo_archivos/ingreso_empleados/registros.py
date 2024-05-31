@@ -1,0 +1,2 @@
+def registros_diarios(): 
+    

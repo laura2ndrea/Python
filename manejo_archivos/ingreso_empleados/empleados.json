@@ -28,5 +28,10 @@
         "nombre": "Carolina Rodriguez",
         "edad": 56,
         "estatus": "contratado"
+    },
+    "ID23": {
+        "nombre": "Luis Ramirez",
+        "edad": 65,
+        "estatus": "contratado"
     }
 }
